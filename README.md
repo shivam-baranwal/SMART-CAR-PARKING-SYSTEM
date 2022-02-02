@@ -1,5 +1,5 @@
 #### TECHNICAL ANSWERS FOR REAL WORLD PROBLEMS (TARP) 
-#### CSE1901 J COMPONENT PROJECT
+#### CSE1901 - J COMPONENT PROJECT
 
 # SMART-CAR-PARKING-SYSTEM
 ## A real-time parking space monitoring and guiding system
@@ -27,3 +27,7 @@ Our solution effectively eliminates all these problems.<br />
 This system improves the performance by decreasing the empty space in a parking area, and huge number of drivers who fail to find a parking space. It helps in reducing the cost of fuel which is wasted in unnecessary travelling of vehicles to find a parking lot and eventually reducing air pollution. 
 It will provide instantaneous information regarding the slots which are available for parking in a particular parking area.<br />
 The average waiting time of the users to find a park lot for parking their vehicles will effectively reduce in our system. An optimal solution will be provided by our proposed system, where most of the vehicles can find a free parking space successfully and minimize the time consumed to find vacant parking lot. This smart parking system provides better performance, low cost and efficient large scale parking system.
+# Current Status
+Currently, we are studying the various components that we will be needing for the implementation of our system. We have started making a rough model of our system and the circuit diagram and also trying to pick out which type of component will suit the best. 
+Furthermore, the identification of all the gaps and limitations have been completed.
+
