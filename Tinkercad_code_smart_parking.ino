@@ -137,21 +137,7 @@ For the second row of the LCD Screen, it will show which parking lot is still em
 This allow users to know which parking lot is still available without wasting time
 to find an empty parking lot.
 */  
-  
-  
-  
-/*lcd.setCursor(0,0);
-if (parkingAvailable == 0)
-{
-  lcd.print("Parking Full  ");
-}
-else
-{
-  lcd.print("Parking Left ");
-  lcd.print(parkingAvailable);
-}*/
 
-  
   
 if (d1>100 & d2>100 & d3>100)
 {
