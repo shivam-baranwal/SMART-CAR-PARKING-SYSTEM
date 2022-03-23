@@ -29,7 +29,8 @@ The average waiting time of the users to find a park lot for parking their vehic
 # Components 
 1. Arduino UNO Board
 2. Ultrasonic Sensors and Range Detectors
-3. 16x2 LCD Display
-4. Servo Motor
-5. Buzzer
-6. LEDs
+3. IR Sensors
+4. 16x2 LCD Display
+5. Servo Motor
+6. Buzzer
+7. LEDs
