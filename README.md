@@ -35,4 +35,5 @@ The average waiting time of the users to find a park lot for parking their vehic
 6. Connecting Wires
 7. LEDs
 # Demo Video Link:
-https://drive.google.com/file/d/1AYA9Njzf1nPKt7t1xHdXXqKVzJjqbhwG/view?usp=sharing
+GOOGLE DRIVE Link:  https://drive.google.com/file/d/1AYA9Njzf1nPKt7t1xHdXXqKVzJjqbhwG/view?usp=sharing
+YOUTUBE Link:       https://youtu.be/VqzXskB6U0M
