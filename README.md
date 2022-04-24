@@ -32,5 +32,7 @@ The average waiting time of the users to find a park lot for parking their vehic
 3. IR Sensors
 4. 16x2 LCD Display
 5. Servo Motor
-6. Buzzer
+6. Connecting Wires
 7. LEDs
+# Demo Video Link:
+https://drive.google.com/file/d/1AYA9Njzf1nPKt7t1xHdXXqKVzJjqbhwG/view?usp=sharing
